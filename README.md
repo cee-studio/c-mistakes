@@ -1,7 +1,7 @@
 # Mistakes of C code made by novices
 
 These are collections of memory mistakes made by students in their C
-code.  
+code.
 
 Contributions are welcome.
 
@@ -12,6 +12,8 @@ The contribution guidelines:
 3. Describe briefly each mistake
 4. Include the original post link (if it's possible)
 
-### [Memory Errors](memory-errors.md)
+### Memory Errors
+
+1. [Iterating with pointers and variables at the same time](memory-mistakes/iterating-with-pointer-and-variable.md)
 
 <footnote>*</footnote> The included code can compile and generate an executable
